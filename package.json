@@ -1,0 +1,17 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "demo video",
+  "main": "index.js",
+  "author": "dungNgo",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "yargs": "^17.1.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  }
+}
